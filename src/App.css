@@ -1,3 +1,5 @@
 .portfolio-app {
 	overflow: hidden;
+	min-height: 100vh;
+	background: #28353d;
 }
